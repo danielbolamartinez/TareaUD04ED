@@ -15,7 +15,7 @@ public class Main {
 
     /**
      * Crea una cuenta bancaria y hace una llamada a otro metodo para operar con esta.
-     * @return No retorna níngún atributo
+     * @return No retorna ningun atributo
      * **/
 	private static void extracted() {
 		CuentaBanco cuentaPersonal;
